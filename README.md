@@ -1,5 +1,7 @@
 # Intro
 
+<a href="https://www.youtube.com/watch?v=M576WGiDBdQ&t=27s">The course is accessed here</a>
+
 - Chainlink allows for smart contract customisation.
 - Ethereum takes store of digital value up a level by allowing for smart contracts and using Oracles to utilise off-chain computation via something like chainlink.
 - Individuals are known as node operators within a blockchain
