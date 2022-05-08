@@ -7,3 +7,4 @@
 - Everything that happens on chain can be seen, everyone is on the same level. There are no admin privilliges.
 - Blockchains are immutable meaning they cannot be changed or tampered with. If all your data is on a blockchain, it's ok as long as one node on the system is running, your system is secure.
 - Utilising a blockchain removes the counterparty risk, meaning that conflicts-of-interest can be prevented - eg. for insurance companies, they don't want to pay out even if you already paid in.
+- Allows us to engage in trustless agreements, or trust minimised agreements. We move from "brand based" to "math based" agreements - whatever code determines, we go by.
