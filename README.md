@@ -16,3 +16,5 @@
 - Gas prices will fluctuate depending on how many people are using it.
 - You can pay a premium to have it completed quicker.
 - Hash is a unique fixed length string that identifies a piece of data, created by placing data into a hash function
+
+bookmark 48:51
